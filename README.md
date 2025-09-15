@@ -19,9 +19,10 @@ Basta baixar o source code e executalo na IDE de sua preferência ou diretamente
   
   Caso não tenha siga os passos abaixo:
     No Linux execute no Bash: "sudo apt install openjdk-17-jdk"
-    E verifique a instalação com os comandos: "java -version"
-                                              "javac -version"
-    Já no Windows, baixe por meio do site oficial da Oracle: "https://www.oracle.com/java/technologies/downloads/"
+    E verifique a instalação com os comandos: - "java -version"
+                                              - "javac -version"
+                                              
+  Já no Windows, baixe por meio do site oficial da Oracle: "https://www.oracle.com/java/technologies/downloads/"
 
 #### Rodando o programa:
 
