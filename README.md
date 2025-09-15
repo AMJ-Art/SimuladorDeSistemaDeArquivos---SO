@@ -32,7 +32,7 @@ Basta baixar o source code e executalo na IDE de sua preferência ou diretamente
 
 ## Inicando o simulador:
 
-Ao iniciar o programa, será pedido um valor referente a quantidade de blocos (que equivale ao tamanho do drive),
+Ao iniciar o programa, será pedido um valor referente a quantidade de blocos (equivalente ao tamanho do disco),
 então surgira 3 opções de método de alocação:
 
 * Alocação Contigua           --> Onde o arquivo ocupara os blocos de forma alinhada adjecentemente, só podendo serem armazenados sequencialmente;
