@@ -2,14 +2,17 @@
 
 ## Descrição:
 
-Esta aplicativo tem por função simular um Sistema de Arquivos da perspectiva e um Sistema Operacinal,
-tendo por objetivo evidênciar os conceitos de Sistemas Operacionais de uma forma simples e interativa.
-Ele foi programado na linguagem de programação Java e desenvolvido na IDE NetBeans, sua interface é apresentada
+Esta aplicativo tendo por objetivo simular um Sistema de Arquivos da perspectiva e um Sistema Operacinal,
+assim evidênciando os conceitos de Sistemas Operacionais aboraddos em aula e que forneça uma expereiência simples 
+e interativa. Ele foi programado na linguagem de programação Java e desenvolvido na IDE NetBeans, sua interface é apresentada
 via o terminal de execução.
 
 ## Sobre a execução do simulador:
 
 Basta baixar o source code e executalo na IDE de sua preferência ou diretamente pelo seu terminal.
+
+### Passo a passo:
+
 
 ## Inicando o simulador:
 
