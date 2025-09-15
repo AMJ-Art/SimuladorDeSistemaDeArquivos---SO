@@ -7,11 +7,11 @@ tendo por objetivo evidênciar os conceitos de Sistemas Operacionais de uma form
 Ele foi programado na linguagem de programação Java e desenvolvido na IDE NetBeans, sua interface é apresentada
 via o terminal de execução.
 
-# Sobre a execução do simulador:
+## Sobre a execução do simulador:
 
 Basta baixar o source code e executalo na IDE de sua preferência ou diretamente pelo seu terminal.
 
-# Inicando o simulador:
+## Inicando o simulador:
 
 Ao iniciar o programa, será pedido um valor referente a quantidade de blocos (que equivale ao tamanho do drive),
 então surgira 3 opções de método de alocação:
