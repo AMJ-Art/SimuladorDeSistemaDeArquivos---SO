@@ -25,10 +25,10 @@ Basta baixar o source code e executalo na IDE de sua preferência ou diretamente
 
 #### Rodando o programa:
 
-  Vá para o local que está o arquivo e execute os seguintes comandos:
+  Vá para o local em que está o arquivo e execute os seguintes comandos:
   
-   "javac SistemaDeArquivos.java"
-   "java SistemaDeArquivos"
+   - "javac SistemaDeArquivos.java"
+   - "java SistemaDeArquivos"
 
 ## Inicando o simulador:
 
