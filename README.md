@@ -36,21 +36,26 @@ Basta baixar o source code e executalo na IDE de sua preferência ou diretamente
 
 ## Inicando o simulador:
 
-Ao iniciar o programa, será pedido um valor referente a quantidade de blocos (equivalente ao tamanho do disco),
-então surgira 3 opções de método de alocação:
+Ao iniciar o programa, será pedido um valor referente a quantidade de blocos (equivalente ao tamanho do disco).
+
+Então surgira 3 opções de método de alocação:
 
 * Alocação Contigua           --> Onde o arquivo ocupara os blocos de forma alinhada adjecentemente, só podendo serem armazenados sequencialmente;
 * Alocação Encadeada          --> Onde cada bloco aponta para o próximo bloco correspondente a continuidade do arquivo, podendo serem armazenados de forma dispersa pelo drive;
 * Alocação Indexada (i-nodes) --> Onde há um bloco por arquivo que armazena os enderenços correspondete aos blocos integrantes do arquivo, podendo serem armazenados de forma dispersa pelo disco;
 
-Então surgira o Menu Principal, com 9 opções:
+Após a seleção, surgira o Menu Principal:
 
-1. Criar arquivo
-2. Estender arquivo
-3. Deletar arquivo
-4. Ler arquivo
-5. Visualizar disco
-6. Ver metricas
-7. Ver diretorio
-8. Reconfigurar sistema
-9. Sair
+--- MENU PRINCIPAL ---
+
+1. Criar arquivo        --> Cria um arquivo(com nome e tamanho) 
+2. Estender arquivo     --> Aumenta o tamanho de um arquivo já existente
+3. Deletar arquivo      --> Libera espaço em disco ("removendo" o arquivo)
+4. Ler arquivo          --> Mostra o tempo para se ler o arquivo (seja sequencial ou aleatório)
+5. Visualizar disco     --> Visualiza o disco (dividido em blocos)
+6. Ver metricas         --> Mostra informações sobre o disco (fragmentação interna e externa e a porcentagem de ocupação do disco)
+7. Ver diretorio        --> Mostra os nomes do arquivos presentes no disco
+8. Reconfigurar sistema --> Reinicia o sistema (podendo reconfigurar o tamanho de disco e o método de alocação)
+9. Sair                 --> Fecha o programa
+
+A partir desta modesta ferramenta é possível trabalhar e desenvolver conceitos básicos de sistema de arquivos. 
