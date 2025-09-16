@@ -49,16 +49,16 @@ Então surgira 3 opções de método de alocação:
 
 Após a seleção, surgira o Menu Principal:
 
---- MENU PRINCIPAL ---
+    --- MENU PRINCIPAL ---
 
-1. Criar arquivo        --> Cria um arquivo(com nome e tamanho) 
-2. Estender arquivo     --> Aumenta o tamanho de um arquivo já existente
-3. Deletar arquivo      --> Libera espaço em disco ("removendo" o arquivo)
-4. Ler arquivo          --> Mostra o tempo para se ler o arquivo (seja sequencial ou aleatório)
-5. Visualizar disco     --> Visualiza o disco (dividido em blocos)
-6. Ver metricas         --> Mostra informações sobre o disco (fragmentação interna e externa e a porcentagem de ocupação do disco)
-7. Ver diretorio        --> Mostra os nomes do arquivos presentes no disco
-8. Reconfigurar sistema --> Reinicia o sistema (podendo reconfigurar o tamanho de disco e o método de alocação)
-9. Sair                 --> Fecha o programa
+    1. Criar arquivo        --> Cria um arquivo(com nome e tamanho) 
+    2. Estender arquivo     --> Aumenta o tamanho de um arquivo já existente
+    3. Deletar arquivo      --> Libera espaço em disco ("removendo" o arquivo)
+    4. Ler arquivo          --> Mostra o tempo para se ler o arquivo (seja sequencial ou aleatório)
+    5. Visualizar disco     --> Visualiza o disco (dividido em blocos)
+    6. Ver metricas         --> Mostra informações sobre o disco (fragmentação interna e externa e a porcentagem de ocupação do disco)
+    7. Ver diretorio        --> Mostra os nomes do arquivos presentes no disco
+    8. Reconfigurar sistema --> Reinicia o sistema (podendo reconfigurar o tamanho de disco e o método de alocação)
+    9. Sair                 --> Fecha o programa
 
 A partir desta modesta ferramenta é possível trabalhar e desenvolver conceitos básicos de sistema de arquivos. 
