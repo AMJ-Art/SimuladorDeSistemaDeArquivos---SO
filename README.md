@@ -19,20 +19,23 @@ Basta baixar o source code e executalo na IDE de sua preferência ou diretamente
   
   !!! Caso contrario, siga os passos abaixo: !!!
   
-    No Linux execute no Bash: "sudo apt install openjdk-17-jdk";
+  No Linux execute no Bash:
+  
+    sudo apt install openjdk-17-jdk
                                               
-    No Windows, baixe por meio do site oficial da Oracle: https://www.oracle.com/java/technologies/downloads/;
+  No Windows, baixe por meio do site oficial da Oracle: https://www.oracle.com/java/technologies/downloads/;
 
-  E verifique a instalação com os seguintes comandos: 
-  *  "java -version"
-  *  "javac -version"
+  E verifique a instalação com os seguintes comandos
+                
+    java -version
+    javac -version
 
 #### Rodando o programa:
 
   Vá para o local em que está armazenado o arquivo e execute os seguintes comandos:
   
-   - "javac SistemaDeArquivos.java"
-   - "java SistemaDeArquivos"
+    javac SistemaDeArquivos.java
+    java SistemaDeArquivos
 
 ## Inicando o simulador:
 
