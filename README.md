@@ -24,8 +24,8 @@ Basta baixar o source code e executalo na IDE de sua preferência ou diretamente
   No Windows, baixe por meio do site oficial da Oracle: https://www.oracle.com/java/technologies/downloads/;
 
   E verifique a instalação com os seguintes comandos: 
-    *  "java -version"
-    *  "javac -version"
+  *  "java -version"
+  *  "javac -version"
 
 #### Rodando o programa:
 
