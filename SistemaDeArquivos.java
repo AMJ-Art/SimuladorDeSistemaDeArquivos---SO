@@ -3,6 +3,8 @@ package sistemadearquivos;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
+//Grupo: Artur Mesquita Jaeger & João Pedro de Oliveira de Carvalho
+
 // Classe principal que contem o método main e fluxo do programa
 public class SistemaDeArquivos {
     
@@ -838,3 +840,4 @@ class mIndexado extends SAIndex {
         return count;
     }
 }
+
