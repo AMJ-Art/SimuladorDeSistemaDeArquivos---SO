@@ -7,7 +7,7 @@ assim evidênciando os conceitos de Sistemas Operacionais aboraddos em aula e qu
 e interativa. Ele foi programado na linguagem de programação Java e desenvolvido na IDE NetBeans, sua interface é apresentada
 via o terminal de execução.
 
-#### Desenvolvedores: Artur Mesquita Jaeger (188354) & João Pedro de Oliveira de Carvalho (188402);
+#### Desenvolvedores do projeto: Artur Mesquita Jaeger (188354) & João Pedro de Oliveira de Carvalho (188402);
 
 ## Sobre a execução do simulador:
 
