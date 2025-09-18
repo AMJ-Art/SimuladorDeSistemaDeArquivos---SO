@@ -63,4 +63,4 @@ Após a seleção, surgira o Menu Principal:
     8. Reconfigurar sistema \\--> Reinicia o sistema (podendo reconfigurar o tamanho de disco e o método de alocação)
     9. Sair                 \\--> Fecha o programa
 
-A partir desta modesta ferramenta é possível trabalhar e desenvolver conceitos de sistema de arquivos como fragmentação inter e exterena, armazenamento de arquivos, e etc. 
+A partir desta modesta ferramenta é possível trabalhar e desenvolver conceitos sobre a Alocação de Arquivos, podendo observar os processos e consequências da aplicação de métodos de alocação, vendo as suas vantagens e desvantagens, assim auxiliando no aprendizado e consolidação de conhecimento. 
